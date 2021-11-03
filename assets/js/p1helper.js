@@ -1,15 +1,15 @@
 //p14C Variables
-const environmentID = '3654e138-9293-4991-8ecc-f3520e4155cc'; // env ID from p1 console
-const baseUrl = 'https://morgapp.ping-eng.com/Morgapp'; //Where this app is hosted --> No trailing slash needed
+const environmentID = '54a63122-bd78-41e2-abb4-6d1b920c4dcf'; // env ID from p1 console
+const baseUrl = 'https://morgapp.ping-eng.com/Carhartt-Morgapp'; //Where this app is hosted --> No trailing slash needed
 
-const workerClientID = '5a39dc99-c9c6-4829-9afd-b71b3efe3ce2'; //used to create/manage users
+const workerClientID = '2fcdb3d7-d106-4fe6-9eda-c2fed8960917'; //used to create/manage users
 //const workerClientSecret = 'UYPFyy6jOIL8HPKTqDgtmz.uqTNyrhP7MY63kMUgqq_G3~VzIuV.qU2sREl86TiO';
 
-const appClientID = 'f876a5d5-6be4-46b9-99ab-f13e2ef955ff'; //used for enduser logon experience
+const appClientID = '0ecb8588-901c-41d3-ad2b-465d7cac43e0'; //used for enduser logon experience
 //const appClientSecret ='O6KAnh~0cYTbP5QPeib~XmK8979QlDHl4amUEiWsB~5k1oRrzCUGJf4G79pzyCUi'; //used for out of band transaction approvals
 
 //const agentClientID ='fec0bfde-63b0-4256-bff7-46105dbd2497'; //user for agent/admin logon experience
-const agentClientID ='7e80217e-4283-4bf1-830f-ea6bc2fdf4ec'; //user for agent/admin logon experience
+//const agentClientID ='7e80217e-4283-4bf1-830f-ea6bc2fdf4ec'; //user for agent/admin logon experience
 
 //----------------------------------------------------------------------------------------------------//
 
