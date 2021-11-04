@@ -14,7 +14,7 @@ body {
 	--mainColor: #fcbc04; 
 	--buttonHover: #fcdd81; /* this changes the button color when you hover over it */
 	--buttonText: #ffffff;
-	--alternateButtonText: #ffffff; 
+	--alternateButtonText: #000000; 
 }
 
 /* Reset */
